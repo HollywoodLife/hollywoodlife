@@ -1,0 +1,17 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 60px 0;
+}@font-face {
+  font-family: 'LEMONMILK-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LEMONMILK-Bold.otf);
+}@font-face {
+  font-family: 'LEMONMILK-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/LEMONMILK-Light.otf);
+}
